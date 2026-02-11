@@ -93,6 +93,15 @@ The Gajarakshak system follows a hybrid Edge AI and IoT architecture:
 - Communication Module
 - Power Supply / Solar Deployment Concept
 
+
+## Demonstration
+
+This video shows the working prototype of the Gajarakshak system including real-time elephant detection and alert generation.
+
+➡️ **Watch the demo:**  
+https://www.youtube.com/watch?v=9OR2a1cZfis
+
+
 ---
 
 ## Applications
